@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNewsReader", "HackerNewsReader\HackerNewsReader.csproj", "{16D7DA82-FAB0-44B6-B788-1FC3ABD7C5C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D7DA82-FAB0-44B6-B788-1FC3ABD7C5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D7DA82-FAB0-44B6-B788-1FC3ABD7C5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D7DA82-FAB0-44B6-B788-1FC3ABD7C5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D7DA82-FAB0-44B6-B788-1FC3ABD7C5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541FE324-3071-455B-9E25-56C75DF715E1}
+	EndGlobalSection
+EndGlobal
